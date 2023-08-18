@@ -4,7 +4,7 @@
 
 This profile is under construction ¯\_(ツ)_/¯
 
-Check out my website ``About`` section for more info (if you know Portuguese)
+Check out my website ``About Me`` section for more info (if you know Portuguese)
 
 ## Skills
 
