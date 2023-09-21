@@ -1,6 +1,8 @@
 ## Software Developer
 
-![stats](https://raw.githubusercontent.com/xalalau/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![Gmod](https://img.shields.io/badge/-GMod-0082fe?logo=goodreads&logoColor=white&style=for-the-badge)
+![stats](https://raw.githubusercontent.com/xalalau/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
+![Gmod](https://img.shields.io/badge/-GMod-0082fe?logo=goodreads&logoColor=white&style=for-the-badge)
 
 <details>
 <summary>👉 <b>Click here to see a bunch of badges</b></summary><p>
